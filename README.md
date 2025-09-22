@@ -24,28 +24,29 @@ This repository serves as a starting point to:
 
 1. Clone this repo:
 
-   ```bash
-   git clone https://github.com/RexTazy/First-ComputerVisionProject.git
-   cd First-ComputerVisionProject
+  ```bash
+  git clone https://github.com/RexTazy/First-ComputerVisionProject.git
+  cd First-ComputerVisionProject
+  ```
 
 2. Create a virtual environment:
    
   ```bash
   python -m venv venv
   venv\Scripts\activate
-
+  ```
 
 3. Install dependencies:
 
   ```bash
   pip install -r requirements.txt
-
+  ```
 
 4. Run the main script:
 
   ```bash
   python "Project - Basic Hand Track.py"
-
+  ```
 
 ## 💻 Author
 
