@@ -30,18 +30,18 @@ This repository serves as a starting point to:
 
 2. Create a virtual environment:
    
-   ```bash
+  ```bash
   python -m venv venv
   venv\Scripts\activate
 
 3. Install dependencies:
 
-   ```bash
+  ```bash
   pip install -r requirements.txt
 
 4. Run the main script:
 
-   ```bash
+  ```bash
   python "Project - Basic Hand Track.py"
 
 ## 💻 Author
